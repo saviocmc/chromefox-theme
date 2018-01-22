@@ -1,7 +1,7 @@
 {
-    "description": "Chomefox - A theme for Chrome/Chromium/Iridium to make it look like the new Mozilla Firefox. Based on Vertex theme.",
-    "manifest_version": 2,
-    "name": "Chomefox",
+    "name": "Chromefox - The Firefox look on Chrome",
+    "short_name":"Chromefox",
+    "description": "A theme for Chrome/Chromium/Iridium to make it look like the new Mozilla Firefox.",
     "version": "1",
     "theme": {
         "images": {
@@ -34,5 +34,6 @@
         "tints": {
             "buttons": [ -1, 0.5, 0.75 ]
         }
-    }
+    },
+    "manifest_version": 2
 }
