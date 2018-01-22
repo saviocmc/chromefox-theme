@@ -1,0 +1,38 @@
+{
+    "description": "Chomefox - A theme for Chrome/Chromium/Iridium to make it look like the new Mozilla Firefox. Based on Vertex theme.",
+    "manifest_version": 2,
+    "name": "Chomefox",
+    "version": "1",
+    "theme": {
+        "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_frame_inactive": "images/theme_frame.png",
+            "theme_frame_incognito": "images/theme_frame.png",
+            "theme_frame_incognito_inactive": "images/theme_frame.png",
+            "theme_toolbar": "images/theme_toolbar.png",
+            "theme_tab_background": "images/theme_frame.png",
+            "theme_tab_background_incognito": "images/theme_frame.png",
+            "theme_tab_background_v": "images/theme_frame.png"
+        },
+        "colors": {
+            "frame": [ 50, 50, 52 ],
+            "frame_inactive": [ 50, 50, 52 ],
+            "frame_incognito": [ 50, 50, 52 ],
+            "frame_incognito_inactive": [ 50, 50, 52 ],
+            "toolbar": [ 50, 50, 52 ],
+            "bookmark_text": [ 255, 255, 255 ],
+            "tab_text": [ 255, 255, 255 ],
+            "tab_background_text": [ 255, 255, 255 ],
+            "ntp_background": [ 249, 249, 250 ],
+            "ntp_text": [ 12, 12, 13 ]
+        },
+        "properties": {
+            "ntp_logo_alternate": 1,
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        },
+        "tints": {
+            "buttons": [ -1, 0.5, 0.75 ]
+        }
+    }
+}
