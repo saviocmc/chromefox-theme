@@ -1,6 +1,6 @@
 # Chromefox
 
-### A theme for Chrome/Chromium/Iridium to make it look like the new dark theme Mozilla Firefox.
+### A theme for Chrome/Chromium/Iridium to make it look like the new dark theme of Mozilla Firefox.
 
 ![Screenshot](screenshots/1366x768.png)
 
